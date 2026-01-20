@@ -1,4 +1,6 @@
-## Hi there 👋
+# Ali Rivera: Data Scientist in Education
+
+Hi! My name is Ali - I’m a data scientist with a background in K-12 STEM education, focused on using data to understand and improve how people learn. I hold a master’s degree in data science and bachelor’s degrees in chemistry and education. I work at the intersection of coding, analytics, and teaching. I love building data science tools to help teach data science, analyzing messy data, and turning questions into practical insights. I’m especially passionate about improving student outcomes for populations that have been historically underrepresented in STEM.
 
 <!--
 **ali-rivera/ali-rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
